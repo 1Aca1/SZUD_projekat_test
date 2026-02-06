@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("SZUD Git projekat\n");
+    printf("Develop verzija\n");
     return 0;
 }
 
