@@ -1,3 +1,5 @@
+// Prva verzija programa
+
 #include <stdio.h>
 
 int main() {
