@@ -3,6 +3,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("SZUD projekat\n");
+    printf("SZUD Git projekat\n");
     return 0;
 }
